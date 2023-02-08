@@ -12,9 +12,11 @@
 
 #### 1999.10.01
 
-##### portpolit
-##### email
-##### github
+portpolit
+
+email
+
+github
 
 <!--stats: https://github.com/anuraghazra/github-readme-stats-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzzseong&layout=compact"><br><br>
