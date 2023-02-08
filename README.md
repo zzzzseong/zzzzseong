@@ -4,13 +4,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,%20World!&fontSize=90)
 
 ## 정지성
----
 
-Back-End Developer
+#### Back-End Developer
 
 JPA, SpringBoot
 
-1999.10.01
+#### 1999.10.01
 
 portpolit
 email
