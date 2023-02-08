@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=zzzzseong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=_#50DFDC&height=200&section=header&text=zzzzseong&fontSize=90)
 
 정지성 
 
