@@ -1,6 +1,6 @@
 ## 정지성
 
-#### Back-End Developer
+#### Backend Engineer
 
 > ##### JPA, SpringBoot
 
