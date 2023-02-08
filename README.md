@@ -4,11 +4,9 @@
 
 > ##### JPA, SpringBoot
 
-
-#### 1999.10.01
-portpolit<br>
-email<br></br>
-github<br></br>
+portpolit: notion..<br>
+email: jung48182@gmail.com<br>
+github: <br>
 
 <!--
 **zzzzseong/zzzzseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
