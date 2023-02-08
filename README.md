@@ -11,12 +11,9 @@
 
 
 #### 1999.10.01
-
-portpolit
-
-email
-
-github
+portpolit<br></br>
+email<br></br>
+github<br></br>
 
 <!--stats: https://github.com/anuraghazra/github-readme-stats-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzzseong&layout=compact"><br><br>
