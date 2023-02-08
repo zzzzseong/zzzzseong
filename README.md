@@ -4,7 +4,7 @@
 
 > ##### JPA, SpringBoot
 
-**portfolit** 준비 중<br>
+**portfolio** 준비 중<br>
 **email** <jung48182@gmail.com><br>
 **github** <https://github.com/zzzzseong><br>
 
