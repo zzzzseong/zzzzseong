@@ -4,7 +4,7 @@
 
 > ##### JPA, SpringBoot
 
-**portfolio** 준비 중<br>
+**notion** <https://www.notion.so/zzzzseong/ab1ad1eec13c4f3b892b9deeef02adb1?pvs=4><br>
 **email** <jung48182@gmail.com><br>
 **github** <https://github.com/zzzzseong><br>
 
