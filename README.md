@@ -8,7 +8,7 @@
 **github** <https://github.com/zzzzseong><br>
 **notion** [https://www.notion.so/zzzzseong](https://www.notion.so/zzzzseong/ab1ad1eec13c4f3b892b9deeef02adb1?pvs=4)<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzzseong&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzzseong)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zzzzseong/zzzzseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
