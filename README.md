@@ -6,7 +6,7 @@
 
 <br>
 
-**email** <jung48182@gmail.com><br>
+**email** <jung48182@gmail.com>
 <!-- **notion** [https://www.notion.so/zzzzseong](https://zzzzseong.notion.site/ab1ad1eec13c4f3b892b9deeef02adb1?pvs=4)<br> -->
 **blog** <https://zzzzseong.tistory.com/><br>
 
