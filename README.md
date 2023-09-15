@@ -6,8 +6,8 @@
 
 <br>
 
-**email** <jung48182@gmail.com><br>
-**blog** <https://zzzzseong.tistory.com/><br>
+<!-- **email** <jung48182@gmail.com><br> -->
+<!-- **blog** <https://zzzzseong.tistory.com/><br> -->
 
 <br>
 
