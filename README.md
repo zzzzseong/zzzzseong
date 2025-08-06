@@ -2,7 +2,7 @@
 
 #### Backend Developer
 
-> ##### JPA, SpringBoot
+<!-- > ##### JPA, SpringBoot -->
 
 <br>
 
